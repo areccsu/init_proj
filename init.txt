@@ -1,0 +1,17 @@
+    wget \
+    rsync \
+    nmap \
+    htop \
+    iotop \
+    vim \
+    mc \
+    byobu \
+    git \
+    letsencrypt \
+    sshguard \
+    jq \
+    lsof \
+    pwgen \
+    symlinks \
+    python3-jenkins \
+    nginx \
